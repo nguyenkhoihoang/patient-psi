@@ -31,7 +31,7 @@
     "@vercel/kv": "^1.0.1",
     "@vercel/node": "^3.0.28",
     "@vercel/og": "^0.6.2",
-    "ai": "^3.0.12",
+    "ai": "^3.4.33",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "consola": "^3.2.3",
@@ -58,6 +58,7 @@
     "remark-math": "^5.1.1",
     "sonner": "^1.4.3",
     "usehooks-ts": "^2.16.0",
+    "vercel": "^48.2.9",
     "zod": "^3.22.4"
   },
   "devDependencies": {

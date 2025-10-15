@@ -46,6 +46,7 @@ def generate_chain(transcript_file, out_file):
         model=os.getenv('GENERATOR_MODEL'),
         temperature=os.getenv('GENERATOR_MODEL_TEMP'),
         max_retries=2,
+        base_url=os.getenv('OPENAI_API_BASE_URL')
     )
     attempts = 0
 
